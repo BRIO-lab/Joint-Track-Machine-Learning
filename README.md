@@ -3,6 +3,8 @@
 
 ## Getting Started
 
+Use the `Releases` tab to the right (-->) for the latest JTML download.
+
 Please use the `Issues` tab at the top to report and bugs you encounter or enhancements/features you want to see.
 
 Use the `Discussions` tab to share ideas with fellow researchers in the fluoroscopic image anaylsis space.
