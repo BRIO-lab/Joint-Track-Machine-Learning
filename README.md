@@ -1,5 +1,10 @@
 # Joint Track Machine Learning
-An autonomous solution for extracting joint kinematics from fluoroscopic images
 
 
-Hey everyone! Thanks for Checking out Joint Track Machine Learning! This is the main hub to download the software and post any issues that you might be having! 
+## Getting Started
+
+Please use the `Issues` tab at the top to report and bugs you encounter or enhancements/features you want to see.
+
+Use the `Discussions` tab to share ideas with fellow researchers in the fluoroscopic image anaylsis space.
+
+Use the `Wiki` for a detailed outline of how to use the software effectively! (PENDING)
