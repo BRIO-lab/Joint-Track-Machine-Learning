@@ -11,6 +11,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
+This is a page to some [documentation](./index.md)
+
 # Header 1
 ## Header 2
 ### Header 3
