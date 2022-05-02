@@ -7,11 +7,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+This is a page to some [documentation](./index.md)
 ```markdown
 Syntax highlighted code block
 
-This is a page to some [documentation](./index.md)
+
 
 # Header 1
 ## Header 2
